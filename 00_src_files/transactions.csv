@@ -1,4 +1,4 @@
-﻿sales_date,customer_id,product_id,sold_qty,sales price
+﻿sales_date,customer_id,product_id,sold_qty,sales_price
 2020-01-01,Customer_61,Product_32,22,7.62
 2020-01-01,Customer_61,Product_24,11,19.43
 2020-01-01,Customer_56,Product_51,51,11.66
